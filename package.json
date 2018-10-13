@@ -1,0 +1,19 @@
+{
+  "name": "leetcode-javascript-problems",
+  "version": "1.0.0",
+  "description": "Leetcode problems solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mparihar12/leetcode-javascript-problems.git"
+  },
+  "author": "Monika Parihar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mparihar12/leetcode-javascript-problems/issues"
+  },
+  "homepage": "https://github.com/mparihar12/leetcode-javascript-problems#readme"
+}
